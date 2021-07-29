@@ -1,0 +1,14 @@
+{
+  "name": "items-server",
+  "version": "1.0.0",
+  "description": "product item server for market",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "mucahit.inel@hormail.com",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
